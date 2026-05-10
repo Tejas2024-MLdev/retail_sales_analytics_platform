@@ -18,9 +18,3 @@ silver_df.cache()
 
 
 
-# COMMAND ----------
-
-
-
-# COMMAND ----------
-

@@ -15,23 +15,6 @@ silver_df.explain(True)
 
 silver_df.cache()
 
-# COMMAND ----------
-
-
-
-# COMMAND ----------
-
-
-
-# COMMAND ----------
-
-
-
-# COMMAND ----------
-
-
-
-# COMMAND ----------
 
 
 
